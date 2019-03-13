@@ -1,0 +1,12 @@
+.enc
+.enc git commit .gitignore -m add exclusion for .env
+Capstone Ideas/
+MatplotLib/
+Pandas-tutorial/
+DataTypes/
+Career Services/
+.ipynb_checkpoints/
+DataTypes
+Project/data_wrangling_json/.ipynb_checkpoints
+Project2_SQL/.ipynb_checkpoints
+Project3_API/API/.ipynb_checkpoints
