@@ -7,6 +7,23 @@ DataTypes/
 Career Services/
 .ipynb_checkpoints/
 DataTypes
-Project/data_wrangling_json/.ipynb_checkpoints
-Project2_SQL/.ipynb_checkpoints
-Project3_API/API/.ipynb_checkpoints
+Project/data_wrangling_json/.ipynb_checkpoints/
+Project2_SQL/.ipynb_checkpoints/
+Project3_API/API/.ipynb_checkpoints/
+Project4_Temp/EDA_human_temperature/.ipynb_checkpoints/
+Project5_Racial_Disc/EDA_racial_discrimination/.ipynb_checkpoints/
+Project6_Hospital/hospital_readmit/.ipynb_checkpoints/
+Project7_linear_reg/.ipynb_checkpoints/
+Project7_linear_reg/images/
+Project8_logistic_reg/.ipynb_checkpoints/
+Project8_logistic_reg/images/
+Project9_naive_bayes/.ipynb_checkpoints/
+Project10_clustering/.ipynb_checkpoints/
+Capstone1/.ipynb_checkpoints/
+Capstone1/Data/
+Capstone1/old/
+Capstone1/Merging_Data/
+Capstone1/*.html
+Capstone1/*.sav
+2017_1.csv
+Initial_look.ipynb
