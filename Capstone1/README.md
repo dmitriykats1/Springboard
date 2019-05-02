@@ -4,9 +4,10 @@ This analysis will focus on predicting the probablity that a flight will be dela
 
 ## Getting Started
 
-One year worth of data is pre-loaded on google drive for easy access and testing:
-https://drive.google.com/drive/folders/1lZJhPM24i9PQRW_nOTQj5sQy3FTiwhbY?usp=sharing
+One year worth of data (2017) is pre-loaded on google drive for easy access and testing:
+https://drive.google.com/file/d/15PXxxTY9X4w0exxu6vMEReJm3Pwcn4TE/view?usp=sharing
 
+Links for other datasets are available in the report
 
 ### Prerequisites
 
